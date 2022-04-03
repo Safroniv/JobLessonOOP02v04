@@ -6,7 +6,9 @@ namespace JobLessonOOP02v04Part01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Console.WriteLine(" ");
         }
+
     }
 }
